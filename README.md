@@ -10,7 +10,7 @@ One project I'm diving into is looking at the **asymptotic density of cousin pri
 
 Here's a quick visual of the **asymptotic density of cousin primes** up to 1000:
 
-![Asymptotic Density of Cousin Primes](.png)
+![Asymptotic Density of Cousin Primes](asymptotic density of cousin primes.png)
 
 ### Where Is This Going?
 Honestly, I’m just having fun with this, but I hope to dig deeper into how the **asymptotic density** varies as a function of different **prime classifications**. I’m curious if primes in other special categories (like twin primes, Sophie Germain primes, etc.) show similar trends or behave in surprising ways.
