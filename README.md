@@ -1,6 +1,6 @@
 # Mathing 🎲🔢
 
-Welcome to **Mathing**—my personal corner on the internet where I get to explore prime numbers because, well, they're cool. 🤓 
+Welcome to **Mathing**—my personal corner on the internet where I share some of my research, most of which is on prime numbers. 🤓 
 
 ## What's This All About?
 This repository contains some of my research projects and scripts that I work on for fun. The initial focus here is **cousin primes**, but I’m fascinated by all types of relational prime classifications.
