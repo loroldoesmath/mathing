@@ -3,7 +3,7 @@
 Welcome to **Mathing**—my personal corner on the internet where I share some of my research, most of which is on prime numbers. 🤓 
 
 ## What's This All About?
-This repository contains some of my research projects and scripts that I work on for fun. The initial focus here is **cousin primes**, but I’m fascinated by all types of relational prime classifications.
+This repository contains some of my research projects and scripts that I work on for fun. The initial focus here is **cousin primes**, but I’m fascinated by prime constellations in general..
 
 ### Asymptotic Density of Cousin Primes
 One project I'm diving into is looking at the **asymptotic density of cousin primes**. Cousin primes are pairs of primes that differ by 4 (for example, 3 and 7). I recently wrote a Python script that plots how the density of these primes changes as we go higher and higher in the prime number sequence.
