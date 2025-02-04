@@ -3,7 +3,7 @@
 This repository contains some of my research projects and scripts that I work on just for fun. The initial focus here is cousin primes, but I’m fascinated by prime constellations in general.
 
 
-(Here)[https://medium.com/@laurelweber/the-hardy-littlewood-conjectures-exploring-the-asymptotic-densities-of-prime-pairs-c1570cb984d1] is a link to a Medium article I wrote on the Hardy-Littlewood Conjectures. It showcases some of the visualizations created in this repository.
+[Here](https://medium.com/@laurelweber/the-hardy-littlewood-conjectures-exploring-the-asymptotic-densities-of-prime-pairs-c1570cb984d1) is a link to a Medium article I wrote on the Hardy-Littlewood Conjectures. It showcases some of the visualizations created in this repository.
 
 ### Asymptotic Density of Cousin Primes
 One project I'm diving into is looking at the asymptotic density of cousin primes. Cousin primes are pairs of primes that differ by 4 (for example, 3 and 7). I recently wrote a Python script that plots how the density of these primes changes as we go higher and higher in the prime number sequence.
