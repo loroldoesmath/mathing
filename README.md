@@ -1,6 +1,6 @@
 # Mathing 🎲🔢
 
-This repository contains some of my research projects and scripts that I work on just for fun. The initial focus here is cousin primes, but I’m fascinated by prime constellations in general.
+This repository contains some of my research projects and scripts, mostly done just for fun. The initial focus here is cousin primes, but I’m exploring chaos theory and nonlinear dynamics as well.
 
 
 [Here](https://medium.com/science-spectrum/the-hardy-littlewood-conjectures-exploring-the-asymptotic-densities-of-prime-pairs-f95d03cb58a0) is a link to a Medium article I wrote on the Hardy-Littlewood Conjectures. It showcases some of the visualizations created in this repository.
